@@ -181,3 +181,7 @@ select {
        align-items: flex-start;
     }
  }
+ .buttonParent {
+   flex-direction: column-reverse; 
+   align-items: flex-start;
+}
