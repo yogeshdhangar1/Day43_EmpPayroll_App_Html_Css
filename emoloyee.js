@@ -6,5 +6,3 @@ window.addEventListener('DOMContentLoaded', (event) =>{
         output.textContent = salary.value; 
     });
 });
-Footer
-© 2022 GitHub, Inc.
